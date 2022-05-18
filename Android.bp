@@ -17,6 +17,7 @@ android_app_import {
         "Launcher2",
         "Launcher3",
         "Launcher3QuickStep",
+        "NexusLauncherRelease",
     ],
 
     dex_preopt: {
